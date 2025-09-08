@@ -81,7 +81,7 @@ I'm a **Computer Science undergraduate** at Uttaranchal University with a passio
 
 <div align="center">
   
-![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansi-negi&show_icons=true&theme=tokyonight&hide_border=true)
+![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manu3586&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-negi&layout=compact&theme=tokyonight&hide_border=true)
 
