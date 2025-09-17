@@ -1,0 +1,27 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:     # Allows manual triggering from Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Generate stats image
+      run: |
+        curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=Manu3586&show_icons=true&theme=radical&access_token=${{ secrets.GH_TOKEN }}"
+        curl -o streak-stats.svg "https://streak-stats.demolab.com/?user=Manu3586&theme=dark&hide_border=true&access_token=${{ secrets.GH_TOKEN }}"
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add github-stats.svg streak-stats.svg
+        git commit -m "Update GitHub stats" || echo "No changes to commit"
+        git push
