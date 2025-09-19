@@ -81,15 +81,14 @@ I'm a **Computer Science undergraduate** at Uttaranchal University with a passio
 
 <div align="center">
   
-
-![Manu's GitHub Stats](https://github.com/Manu3586/your-repo-name/raw/main/github-stats.svg)
-
-![GitHub Streak](https://github.com/Manu3586/your-repo-name/raw/main/streak-stats.svg)
+![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manu3586&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu3586&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manu3586&theme=dark&hide_border=true)
 
- ![GitHub Streak](https://streak-stats.demolab.com/?user=Manu3586&theme=dark&hide_border=true) 
+
+
 
 </div>
 
