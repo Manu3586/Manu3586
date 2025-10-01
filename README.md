@@ -85,8 +85,6 @@ I'm a **Computer Science undergraduate** at Uttaranchal University with a passio
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu3586&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://your-vercel-deployment.vercel.app/?user=Manu3586&theme=dark&hide_border=true)
-
 
 
 
