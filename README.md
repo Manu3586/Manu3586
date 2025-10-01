@@ -105,11 +105,22 @@ I'm a **Computer Science undergraduate** at Uttaranchal University with a passio
 
 ---
 
-## 🚧 Projects (Work in Progress)
+# 🚀 Web Development Projects  
 
-I’m currently working on different projects to improve my **Web Development** and **DSA** skills.  
-📌 New projects are added step by step — from **basic to advanced**.  
-🔗 Stay tuned and check my profile regularly for updates!
+I’m building and uploading different **Web Development projects** to sharpen my skills.  
+
+## ✅ Projects Completed So Far  
+- Pricing Table  
+- Task Manager  
+- Juice Landing Page  
+- Portfolio Website  
+- Calculator  
+- Currency Converter  
+- Weather App  
+
+📌 More projects will be added step by step — from **basic to advanced**.  
+🔗 Stay tuned for updates!  
+
 
 ---
 
